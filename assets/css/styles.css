@@ -1,0 +1,9 @@
+/* 
+    Add custom CSS here.
+    No need to write Bootstrap CSS here as it is already included.
+*/
+
+.small {
+    width: 400px;
+    height: 600px;
+}
