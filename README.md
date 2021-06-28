@@ -5,3 +5,6 @@ Bootstrap is used to make this template.
 ## Idea
 This is a simple template that can be used to make websites quickly. It prevents users from writing redundant code again and again.
 This can come handy for developing webpages quickly in say, a hackathon. If you have any suggestions or idea, feel free to change the code.
+
+## Preview
+To have a look at the template, [click here](https://vishal354.github.io/starter-pack-frontend/).  Cheers :-)
